@@ -121,7 +121,7 @@ Trivy performs vulnerability scanning for both the file system and Docker images
 Final deployed application running inside a Docker container.
 
 <p align="center">
-    <img src="./images/app-ui.png" width="100%" alt="Application UI">
+    <img src="./images/App-ui.png" width="100%" alt="Application UI">
 </p>
 
 ---
